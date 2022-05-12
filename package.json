@@ -1,0 +1,22 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "A JavaScript beginner can be able to create a beautiful and functional to do list using JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HIGH238/TO-DO-LIST.git"
+  },
+  "author": "AAKASHDEEP SINGH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HIGH238/TO-DO-LIST/issues"
+  },
+  "homepage": "https://github.com/HIGH238/TO-DO-LIST#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
